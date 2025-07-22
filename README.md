@@ -23,7 +23,6 @@ Below is a list of npm packages I've published under the [`@mr-samani`](https://
 
 | Package | Description | Version |
 |--------|-------------|---------|
-
 | [`ngx-drag-drop-kit`](https://www.npmjs.com/package/ngx-drag-drop-kit) |  Drag & Drop, Grid Layout, horizontal/vertical lists, sorting, resizing, and more. | `1.0.0` |
 | [`ngx-input-color`](https://www.npmjs.com/package/ngx-input-color) | color and gradient picking | `3.2.0` |
 | [`@mr-samani/event-bus`](https://www.npmjs.com/package/@mr-samani/event-bus) | Simple event bus for message communication | `1.0.2` |
