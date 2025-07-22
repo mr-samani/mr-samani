@@ -23,7 +23,9 @@ Below is a list of npm packages I've published under the [`@mr-samani`](https://
 
 | Package | Description | Version |
 |--------|-------------|---------|
-| [`ngx-dragable-resizable`](https://www.npmjs.com/package/ngx-dragable-resizable) | Drag & resize HTML elements in Angular without CDK/Material | `3.3.1` |
+
+| [`ngx-drag-drop-kit`](https://www.npmjs.com/package/ngx-drag-drop-kit) |  Drag & Drop, Grid Layout, horizontal/vertical lists, sorting, resizing, and more. | `1.0.0` |
+| [`ngx-input-color`](https://www.npmjs.com/package/ngx-input-color) | color and gradient picking | `3.2.0` |
 | [`@mr-samani/event-bus`](https://www.npmjs.com/package/@mr-samani/event-bus) | Simple event bus for message communication | `1.0.2` |
 | [`ngx-useful-libs`](https://www.npmjs.com/package/ngx-useful-libs) | Helpful directives and pipes for Angular | `1.1.0` |
 | [`@mr-samani/ngx-signature-pad`](https://www.npmjs.com/package/@mr-samani/ngx-signature-pad) | Create signature pad in Angular | `1.0.0` |
@@ -34,6 +36,7 @@ Below is a list of npm packages I've published under the [`@mr-samani`](https://
 | [`ngx-select-angle`](https://www.npmjs.com/package/ngx-select-angle) | Angular angle selector component (0-360°) | `0.0.1` |
 | [`ngx-knob`](https://www.npmjs.com/package/ngx-knob) | Knob controller component for Angular | `1.1.0` |
 | [`orderby-ts`](https://www.npmjs.com/package/orderby-ts) | Sort arrays easily in TypeScript | `2.0.1` |
+| [`ngx-dragable-resizable`](https://www.npmjs.com/package/ngx-dragable-resizable) | Drag & resize HTML elements in Angular without CDK/Material | `3.3.1` |
 
 ---
 
